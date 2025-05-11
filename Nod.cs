@@ -129,7 +129,6 @@ namespace Nod
             }
             cursor.Index += 2;
             cursor.EmitDelegate(SwapMenuLogo);
-            MonoModHooks.DumpIL(this, il);
         }
         private Texture2D SwapMenuLogo(Texture2D icon)
         {
