@@ -1,0 +1,3 @@
+displayName = Nod
+author = z19th
+version = 0.1
